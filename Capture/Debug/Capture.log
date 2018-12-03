@@ -1,0 +1,4 @@
+﻿  capture.cpp
+capture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+  Capture.vcxproj -> C:\Users\chanbin\Desktop\myHollowing\Capture\Debug\Capture.exe
+  Capture.vcxproj -> C:\Users\chanbin\Desktop\myHollowing\Capture\Debug\Capture.pdb (Full PDB)
